@@ -8,7 +8,7 @@ const YukinaConfig: Configuration = {
 
   description: "Demo Site",
 
-  site: "https://codingflowerdog.github.io",
+  site: "https://blog.hanainu.com",
 
   locale: "en", // set for website language and date format
 
